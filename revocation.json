@@ -1,8 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://github.com/Hanaamohammadj/hanaa/edit/master/revocation.json",
+  "id": "https://hanaamohammadj.github.io/hanaa/revocation.json",
   "type": "RevocationList",
-  "issuer": "https://github.com/Hanaamohammadj/hanaa/edit/master/issuer.json",
+  "issuer": "https://hanaamohammadj.github.io/hanaa/issuer.json",
   "revokedAssertions": [
     {
       "id": "urn:uuid:388dcc27-a7f3-475d-b18f-ac718e15cd8b",
