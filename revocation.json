@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://github.com/Hanaamohammadj/hanaa/edit/master/revocation.json",
+  "type": "RevocationList",
+  "issuer": "https://github.com/Hanaamohammadj/hanaa/edit/master/issuer.json",
+  "revokedAssertions": [
+    {
+      "id": "urn:uuid:388dcc27-a7f3-475d-b18f-ac718e15cd8b",
+      "revocationReason": "Honor code violation"
+    },
+    {
+      "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
+      "revocationReason": "Issued in error."
+    }
+  ]
+}
